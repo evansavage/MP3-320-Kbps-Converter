@@ -26,7 +26,7 @@ You will need:
 
 First, make sure you have two folders: one to read from (folder with all of your music) and one to write to (where the copies will be saved). I recommend making these folders parallel with one another (i.e. at the same level in your Finder or file explorer application). Then, place the `converter_mp3_320.py` file at the same level as those folders.
 
-You will need to make a few edits to the `converter_mp3_320.py` file. The `srcDir` (line 4) and `destDir` (line 5) variables should be rewritten to the names of the folder that you would like to read from and write to, respectively. 
+You will need to make a few edits to the `converter_mp3_320.py` file. The `srcDir` (line 4) and `destDir` (line 5) variables should be rewritten to the names of the folders that you would like to read from and write to, respectively. 
 
 To execute the script, open a Terminal window and go to the location of the python file and source and destination directories. Type in: `python convert_mp3_320.py`, and the script will get to work!!
 
